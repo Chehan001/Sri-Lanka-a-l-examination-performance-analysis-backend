@@ -24,6 +24,6 @@ Thumbs.db
 
 # Optional: ignore generated data/models if they are large
 data/
-models/
+
 
 # backend run --> uvicorn main:app --reload 
